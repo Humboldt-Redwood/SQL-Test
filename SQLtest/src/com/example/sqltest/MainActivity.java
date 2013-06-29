@@ -1,3 +1,14 @@
+/********************************************************************
+* Main Activity                                                     *
+*                                                                   *
+* Author: Radiac                                                    *
+*                                                                   *
+* Last Modified: June 29, 2013                                      *
+*                                                                   *
+* Version: 0.1                                                      *
+*                                                                   *
+*********************************************************************/
+
 package com.example.sqltest;
 
 import java.util.Calendar;
